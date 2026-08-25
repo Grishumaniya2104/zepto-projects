@@ -7,6 +7,9 @@ A **Zepto-inspired grocery shopping website** created using **HTML5 and CSS3**. 
 **Live Website:**
 https://zepto-projects.vercel.app/
 
+📽️Explation video
+🔗https://drive.google.com/drive/folders/1gMYFhN0ESG-hKO8YwDbxC2teHXE8p5EQ?usp=drive_link
+
 ## 📂 GitHub Repository
 
 **GitHub:**
