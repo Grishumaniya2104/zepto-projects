@@ -4,6 +4,12 @@
     box-sizing: border-box;
     background-color: #FFFFFF;
     font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+body{
+    overflow-x: hidden;
+    margin: auto;
 }
 .navbar{
     display: flex;
@@ -42,15 +48,16 @@
 
 .icons{
     display: flex;
-    font-size: 20px;
+    font-size:20px;
     color: grey;
     gap: 10px;
-    margin: auto;
+    
     
 }
 .i-1{
     font-size:30;
     gap:15px;
+    
 }
 .span{
     font-size: 15px;
@@ -67,6 +74,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 30px;
 
 }
 
@@ -80,15 +88,17 @@
     height: 400px;
     width: 600px;
     margin-top: 20px;
+    overflow-x: hidden;
 }
 
 .category{
     display: flex;
     gap: 20px;
-    margin-top: 20px;
+    margin-top: 30px;
     justify-content: center;
     align-items: center;
     text-align: center;
+
 }
 .category img{
     height: 100px;
@@ -97,6 +107,8 @@
     justify-content: center;
     align-items: center;
     text-align: center;
+    margin: auto;
+    height:fit-content;
 }
 .category-2{
     display: flex;
@@ -135,8 +147,12 @@
     justify-content: center;
     align-items: center;
     gap: 5x;
+    margin: 30px auto;
     flex-direction:column ;
     margin-left: 20px;
+    height: 100%;
+    width: 100%;
+    
   
     
     
