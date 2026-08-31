@@ -101,8 +101,8 @@ body{
 
 }
 .category img{
-    height: 150px;
-    width: 150px;
+    height: 185px;
+    width: 200px;
     display:flex;
     justify-content: center;
     align-items: center;
