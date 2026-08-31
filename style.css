@@ -85,8 +85,8 @@ body{
     align-items: center;
 }
 .banners img{
-    height: 400px;
-    width: 600px;
+    height: 600px;
+    width: 1000px;
     margin-top: 20px;
     overflow-x: hidden;
 }
@@ -150,7 +150,7 @@ body{
     gap: 5x;
     margin: 30px auto;
     flex-direction:column ;
-    margin-left: 20px;
+    margin-left: 100px;
     height: 100%;
     width: 100%;
     
