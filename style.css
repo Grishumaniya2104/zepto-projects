@@ -137,8 +137,9 @@ body{
 }
 .p-1{
     display: flex;
-    gap: 15px;
-    margin-left:0px;
+    gap: 20px;
+    margin-left:100px;
+    margin-right: 100px;
    
    
 }
