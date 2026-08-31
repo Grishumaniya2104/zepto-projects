@@ -85,7 +85,7 @@ body{
     align-items: center;
 }
 .banners img{
-    height: 600px;
+    height: 550px;
     width: 900px;
     margin-top: 20px;
     overflow-x: hidden;
@@ -101,8 +101,8 @@ body{
 
 }
 .category img{
-    height: 185px;
-    width: 200px;
+    height:150 px;
+    width: 150px;
     display:flex;
     justify-content: center;
     align-items: center;
@@ -119,8 +119,8 @@ body{
     text-align: center;
 }
 .category-2 img{
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 150px;
     display: flex;
     justify-content: center;
     align-items: center;
