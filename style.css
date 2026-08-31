@@ -85,7 +85,7 @@ body{
     align-items: center;
 }
 .banners img{
-    height: 550px;
+    height: 600px;
     width: 900px;
     margin-top: 20px;
     overflow-x: hidden;
@@ -101,7 +101,7 @@ body{
 
 }
 .category img{
-    height:150 px;
+    height: 150px;
     width: 150px;
     display:flex;
     justify-content: center;
@@ -128,11 +128,11 @@ body{
 }
 
 .heading{
-    margin-left: 40px;
+    margin-left: 60px;
 }
 
 .heading-2{
-    margin-left: 20px;
+    margin-left: 60px;
     margin-top: 30px;
 }
 .p-1{
